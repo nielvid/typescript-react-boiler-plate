@@ -2,7 +2,7 @@ import React, { FC } from 'react';
 
 const App: FC = () => (
   <div>
-    All set to write typescript
+    <h1> All set to write typescript</h1>
   </div>
 );
 
